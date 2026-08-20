@@ -14,4 +14,7 @@ A three-week summer intensive in ethics for Houston-area high school students, o
 
 Students work through normative and applied ethics — consequentialism, Kantian ethics, virtue ethics, care ethics, and feminist approaches — then test those frameworks against real cases during site visits with practitioners, including engineers at NURO self-driving vehicles, clinical ethicists at Baylor College of Medicine's Center for Medical Ethics and Health Policy, and refugee services staff at Interfaith Ministries for Greater Houston. The program closes with a public academic symposium in which students present and defend a verdict on a real-world case.
 
-[Download the program schedule (PDF)](/files/Schedule_Ethics_and_Society.pdf){: .btn .btn--primary}
+The course opens with a question students already have opinions about — whether supporting major streaming services is ethical — and builds the theoretical apparatus from there.
+
+[Program schedule (PDF)](/files/Schedule_Ethics_and_Society.pdf){: .btn .btn--primary}
+[Course slides (PDF)](/files/Slides_Ethics_and_Society_2021.pdf){: .btn .btn--primary}
